@@ -121,7 +121,7 @@ The dashboard aims to:
 
 ## 10. Screenshots / Demo
 
-![Dashboard Preview](./screenshots/sales_dashboard_preview.png)
+![Dashboard Preview][(./screenshots/sales_dashboard_preview.png)](https://github.com/Tiwari-Praveen-Codes/Sales-Performance-dashboard-Power-BI/blob/main/Sales_dashboard.png.png)
 
 ---
 
@@ -155,5 +155,5 @@ Aspiring Data Analyst | Power BI | Tableau | SQL | Python
 > *This project demonstrates practical business intelligence skills including data modeling, KPI development, and insight-driven storytelling.*
 
 
-## 11. Repository Structure
+
 
